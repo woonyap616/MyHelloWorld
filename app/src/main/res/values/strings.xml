@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyHelloWorld</string>
+    <string name="helloText">wo hen hao</string>
+    <string name="textNumber">Hello</string>
+    <string name="buttonText">RollDice</string>
+</resources>
