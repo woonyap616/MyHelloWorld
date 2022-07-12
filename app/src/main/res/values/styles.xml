@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NumbStyle">
+        <item name="android:fontFamily">@font/roboto_thin</item>
+    </style>
+
+    <style name="NumbStyle_1" parent="NumbStyle">
+        <item name="android:padding">@dimen/word_padding</item>
+    </style>
+</resources>
